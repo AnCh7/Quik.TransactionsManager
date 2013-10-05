@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quik.TransactionsManager.Library", "Quik.TransactionsManager.Library\Quik.TransactionsManager.Library.csproj", "{4C6EA2E7-D03B-4ECC-8A87-8BE59B280596}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quik.TransactionsManager.TestApp", "Quik.TransactionsManager.TestApp\Quik.TransactionsManager.TestApp.csproj", "{F3B042E7-82BA-4EBF-837C-86EA95959D9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C6EA2E7-D03B-4ECC-8A87-8BE59B280596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C6EA2E7-D03B-4ECC-8A87-8BE59B280596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C6EA2E7-D03B-4ECC-8A87-8BE59B280596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C6EA2E7-D03B-4ECC-8A87-8BE59B280596}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3B042E7-82BA-4EBF-837C-86EA95959D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B042E7-82BA-4EBF-837C-86EA95959D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B042E7-82BA-4EBF-837C-86EA95959D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B042E7-82BA-4EBF-837C-86EA95959D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
